@@ -43,8 +43,8 @@ return array(
 
 		'sqs' => array(
 			'driver' => 'sqs',
-			'key'    => 'AKIAI7YOJZU5W2GX7DWQ',
-			'secret' => 'a2whOQ57g9/gUYZor9vBLF6h0kcH+pxyRWmY/RZz',
+			'key'    => 'YOUR KEY',
+			'secret' => 'YOUR SECRTET',
 			'queue'  => 'https://sqs.ap-northeast-1.amazonaws.com/020832499452/contact-thankyou',
 			'region' => 'ap-northeast-1',
 		),

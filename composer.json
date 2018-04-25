@@ -7,10 +7,10 @@
         "laravel/framework": "4.2.*",
         "doctrine/dbal": "2.5.0-BETA3",
         "phpunit/phpunit": "4.1.*",
-        "bugsnag/bugsnag-laravel": "dev-master",
-        "illuminate/support": "4.2.*",
+        "bugsnag/bugsnag-laravel": "1.7.0",
+        "illuminate/support": "*",
         "jenssegers/agent": "*",
-        "jenssegers/mongodb": "dev-master",
+        "jenssegers/mongodb": "2.0.*",
         "pda/pheanstalk": "2.0.0",
         "intervention/image": "dev-master"
     },
@@ -19,7 +19,7 @@
         "mockery/mockery": "0.9.*@dev",
         "way/phpunit-wrappers": "dev-master",
         "barryvdh/laravel-debugbar": "1.*",
-        "fabpot/php-cs-fixer": "1.0.*@dev"
+        "friendsofphp/php-cs-fixer": "1.3.0"
     },
     "autoload": {
         "classmap": [
